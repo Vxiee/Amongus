@@ -6,5 +6,9 @@
     "Paypal"           : "alexakyst@gmail.com",
     "CryptoBTC"        : "bc1qu36ag2ur4kvaga7gw3xxd7vcv390vagckpr6m5",
     "CryptoLTC"        : "0x5A71c23338d280fEC4843027f22634638De666eC",
-    "CryptoETH"        : "LPg7p2YjamKKvy6qakW3paiMeH7CH4EcTi"
+    "CryptoETH"        : "LPg7p2YjamKKvy6qakW3paiMeH7CH4EcTi",
+
+    "FallenAccounts"   : "13",
+    "ProjectDeltaAccs" : "10",
+    "AfterMathsAccs"   : "7"
 }
